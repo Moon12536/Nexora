@@ -4,12 +4,40 @@
   "version": "1.1.0",
   "title": "Nexora Update 1.1",
   "message": "A new version of Nexora is available.",
+  "date": "2026-09-18",
   "maintenance": false,
   "minimumVersion": "1.1.0",
   "changelog": [
     "New Nexora update system",
-    "Improved game performance",
-    "New user interface",
+    "Added forced update support",
+    "Added update history",
+    "Improved update detection",
+    "Improved user interface",
     "Bug fixes and improvements"
+  ],
+  "history": [
+    {
+      "version": "1.1.0",
+      "title": "Nexora Update 1.1",
+      "date": "2026-09-18",
+      "changelog": [
+        "New Nexora update system",
+        "Added forced update support",
+        "Added update history",
+        "Improved update detection",
+        "Improved user interface",
+        "Bug fixes and improvements"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "title": "Nexora Initial Release",
+      "date": "2026-09-12",
+      "changelog": [
+        "Initial Nexora release",
+        "Initial game systems",
+        "Initial user interface"
+      ]
+    }
   ]
 }
