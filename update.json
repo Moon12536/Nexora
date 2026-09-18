@@ -1,10 +1,11 @@
+
 {
   "id": "1.1.0",
   "version": "1.1.0",
   "title": "Nexora Update 1.1",
-  "message": "A new update is available!",
+  "message": "A new version of Nexora is available.",
   "maintenance": false,
-  "minimumVersion": "1.0.0",
+  "minimumVersion": "1.1.0",
   "changelog": [
     "New Nexora update system",
     "Improved game performance",
