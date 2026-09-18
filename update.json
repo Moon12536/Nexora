@@ -1,4 +1,4 @@
-
+```json
 {
   "id": "1.1.0",
   "version": "1.1.0",
@@ -6,10 +6,8 @@
   "message": "A new version of Nexora is available.",
   "date": "2026-09-18",
   "maintenance": false,
-  "minimumVersion": "1.1.0",
   "changelog": [
     "New Nexora update system",
-    "Added forced update support",
     "Added update history",
     "Improved update detection",
     "Improved user interface",
@@ -22,7 +20,6 @@
       "date": "2026-09-18",
       "changelog": [
         "New Nexora update system",
-        "Added forced update support",
         "Added update history",
         "Improved update detection",
         "Improved user interface",
@@ -41,3 +38,4 @@
     }
   ]
 }
+```
